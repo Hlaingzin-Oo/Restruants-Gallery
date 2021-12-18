@@ -1,0 +1,22 @@
+<table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Address</th>
+        <th scope="col">Email</th>
+        <th scope="col">Operation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of data">
+        <th >{{item.id}}</th>
+        <th>{{item.name}}</th>
+        <th>{{item.address}}</th>
+        <th>{{item.email}}</th>
+        <th><i (click)="deleteRest(item.id)"  class="fa fa-trash" style="font-size:25px;color:red;"></i>
+          <a routerLink="/update/{{item.id}}">
+         <i class="fa fa-trash" style="font-size:25px;color:black;"></i></a></th>
+      </tr>
+      </tbody>
+  </table> 

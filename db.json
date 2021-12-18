@@ -1,0 +1,90 @@
+{
+  "restruants": [
+    {
+      "id": 1,
+      "name": "json-server1",
+      "address": "typicode1",
+      "email": ""
+    },
+    {
+      "id": 2,
+      "name": "json-server2",
+      "address": "typicode2",
+      "email": ""
+    },
+    {
+      "id": 3,
+      "name": "json-server3",
+      "address": "typicode3",
+      "email": ""
+    },
+    {
+      "id": 4,
+      "name": "json-server4",
+      "address": "typicode4",
+      "email": ""
+    },
+    {
+      "id": 5,
+      "name": "json-server5",
+      "address": "typicode5",
+      "email": ""
+    },
+    {
+      "id": 6,
+      "name": "json-server6",
+      "address": "typicode6",
+      "email": ""
+    },
+    {
+      "id": 7,
+      "name": "json-server7",
+      "address": "typicode7",
+      "email": ""
+    },
+    {
+      "name": "kfc",
+      "address": "Terkata",
+      "email": "kfc@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "fsf",
+      "address": "dfds",
+      "email": "fsd",
+      "id": 9
+    },
+    {
+      "name": "fsf",
+      "address": "dfds",
+      "email": "fsd",
+      "id": 10
+    },
+    {
+      "name": "fsf",
+      "address": "dfds",
+      "email": "fsd",
+      "id": 11
+    },
+    {
+      "name": "fsf",
+      "address": "dfds",
+      "email": "fsd",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "username": "sfd",
+      "email": "dsfsd",
+      "password": "dsf",
+      "id": 1
+    },
+    {
+      "username": "sfd",
+      "email": "dsfsd",
+      "password": "dsf",
+      "id": 2
+    }
+  ]
+}
